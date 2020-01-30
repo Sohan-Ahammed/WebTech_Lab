@@ -1,0 +1,42 @@
+<employees_info>
+	<employee_info>
+		<id> 1 </id>
+		<nama> John Doe </nama>
+	    <address>
+	  	  <house> 38 </house>
+	  	  <road> 3 </road>
+	  	  <place> Banani,Dhaka </place>
+	    </address>
+	    <department> Sales </department>
+	    <Salary> $20000 </Salary>
+
+	</employee_info>
+
+		<employee_info>
+		<id> 2 </id>
+		<nama> Mark Zuckerberk </nama>
+	    <address>
+	  	  <flat> A/1 </flat>
+	  	  <house> 20 </house>
+	  	  <road> 18 </road>
+	  	  <place> Mirpur,Dhaka </place>
+	    </address>
+	    <department> Accounts </department>
+	    <Salary> $12000 </Salary>
+
+	</employee_info>
+
+		<employee_info>
+		<id> 3 </id>
+		<nama> Ala Voski </nama>
+	    <address>
+	  	  <house> 38 </house>
+	  	  <road> 3 </road>
+	  	  <place> Matijheel </place>
+	    </address>
+	    <department> Human Resource </department>
+	    <Salary> $30000 </Salary>
+
+	</employee_info>
+</employees_info>
+
